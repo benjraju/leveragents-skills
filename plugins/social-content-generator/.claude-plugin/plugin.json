@@ -1,0 +1,8 @@
+{
+  "name": "social-content-generator",
+  "version": "1.0.0",
+  "description": "Generate platform-specific social content for ecommerce brands",
+  "author": { "name": "Leveragents", "url": "https://leveragents.com" },
+  "license": "MIT",
+  "skills": "./skills/"
+}

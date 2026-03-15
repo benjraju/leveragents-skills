@@ -1,0 +1,15 @@
+{
+  "name": "ad-creative-generator",
+  "version": "1.0.0",
+  "description": "Generate 40+ ad creatives from a single product URL using Gemini API",
+  "author": {
+    "name": "Leveragents",
+    "email": "hello@leveragents.com",
+    "url": "https://leveragents.com"
+  },
+  "homepage": "https://leveragents.com/skills/ad-creative-generator",
+  "repository": "https://github.com/benjraju/leveragents-skills",
+  "license": "MIT",
+  "keywords": ["ad creative", "gemini", "ecommerce", "product photography"],
+  "skills": "./skills/"
+}

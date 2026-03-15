@@ -1,0 +1,8 @@
+{
+  "name": "ecom-review-analyzer",
+  "version": "1.0.0",
+  "description": "Analyze customer reviews to extract insights, pain points, and improvement opportunities",
+  "author": { "name": "Leveragents", "url": "https://leveragents.com" },
+  "license": "MIT",
+  "skills": "./skills/"
+}

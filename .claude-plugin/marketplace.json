@@ -1,0 +1,68 @@
+{
+  "name": "leveragents",
+  "owner": {
+    "name": "Leveragents",
+    "email": "hello@leveragents.com"
+  },
+  "metadata": {
+    "description": "AI skills for ecommerce operators. Ad creative, listing optimization, customer ops, and more.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ad-creative-generator",
+      "source": "./plugins/ad-creative-generator",
+      "description": "Generate 40+ ad creatives from a single product URL using Gemini API. Produces photorealistic product images, lifestyle shots, and ad variations.",
+      "version": "1.0.0",
+      "author": { "name": "Leveragents" },
+      "homepage": "https://leveragents.com/skills/ad-creative-generator",
+      "category": "ecommerce",
+      "tags": ["ads", "creative", "gemini", "images", "meta", "tiktok", "amazon"],
+      "keywords": ["ad creative", "product photography", "ai images", "ecommerce ads"]
+    },
+    {
+      "name": "amazon-listing-optimizer",
+      "source": "./plugins/amazon-listing-optimizer",
+      "description": "Optimize Amazon product listings for search ranking and conversions. Analyzes titles, bullets, descriptions, and backend keywords.",
+      "version": "1.0.0",
+      "author": { "name": "Leveragents" },
+      "homepage": "https://leveragents.com/skills/amazon-listing-optimizer",
+      "category": "ecommerce",
+      "tags": ["amazon", "listings", "seo", "a9", "optimization", "fba"],
+      "keywords": ["amazon listing", "product optimization", "a9 algorithm", "amazon seo"]
+    },
+    {
+      "name": "ecom-review-analyzer",
+      "source": "./plugins/ecom-review-analyzer",
+      "description": "Analyze customer reviews to extract insights, identify pain points, find feature requests, and generate improvement recommendations.",
+      "version": "1.0.0",
+      "author": { "name": "Leveragents" },
+      "homepage": "https://leveragents.com/skills/review-analyzer",
+      "category": "ecommerce",
+      "tags": ["reviews", "customer-feedback", "insights", "sentiment", "amazon", "shopify"],
+      "keywords": ["review analysis", "customer feedback", "sentiment analysis", "product improvement"]
+    },
+    {
+      "name": "email-sequence-builder",
+      "source": "./plugins/email-sequence-builder",
+      "description": "Build high-converting email sequences for ecommerce: abandoned cart, post-purchase, win-back, launch, and seasonal campaigns.",
+      "version": "1.0.0",
+      "author": { "name": "Leveragents" },
+      "homepage": "https://leveragents.com/skills/email-sequence-builder",
+      "category": "ecommerce",
+      "tags": ["email", "klaviyo", "sequences", "abandoned-cart", "retention"],
+      "keywords": ["email marketing", "abandoned cart", "email sequences", "ecommerce email"]
+    },
+    {
+      "name": "social-content-generator",
+      "source": "./plugins/social-content-generator",
+      "description": "Generate platform-specific social content for ecommerce brands. Creates posts, threads, carousels, and video scripts for X, Instagram, TikTok, and LinkedIn.",
+      "version": "1.0.0",
+      "author": { "name": "Leveragents" },
+      "homepage": "https://leveragents.com/skills/social-content-generator",
+      "category": "ecommerce",
+      "tags": ["social-media", "content", "twitter", "instagram", "tiktok", "linkedin"],
+      "keywords": ["social content", "ecommerce social", "content creation", "social media marketing"]
+    }
+  ]
+}

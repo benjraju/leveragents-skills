@@ -1,0 +1,16 @@
+{
+  "name": "amazon-listing-optimizer",
+  "version": "1.0.0",
+  "description": "Optimize Amazon product listings for A9 search ranking and conversions",
+  "author": {
+    "name": "Leveragents",
+    "email": "hello@leveragents.com",
+    "url": "https://leveragents.com"
+  },
+  "homepage": "https://leveragents.com/skills/amazon-listing-optimizer",
+  "repository": "https://github.com/benjraju/leveragents-skills",
+  "license": "MIT",
+  "keywords": ["amazon", "listing optimization", "a9", "seo", "fba"],
+  "skills": "./skills/",
+  "agents": "./agents/"
+}
