@@ -63,6 +63,28 @@
       "category": "ecommerce",
       "tags": ["social-media", "content", "twitter", "instagram", "tiktok", "linkedin"],
       "keywords": ["social content", "ecommerce social", "content creation", "social media marketing"]
+    },
+    {
+      "name": "competitor-ad-spy",
+      "source": "./plugins/competitor-ad-spy",
+      "description": "Analyze competitor advertising strategies across Meta, TikTok, and Amazon. Reverse-engineer winning ad patterns, hooks, CTAs, and creative styles into actionable intelligence.",
+      "version": "1.0.0",
+      "author": { "name": "Leveragents" },
+      "homepage": "https://leveragents.com/skills/competitor-ad-spy",
+      "category": "ecommerce",
+      "tags": ["competitor-analysis", "ad-spy", "meta-ads", "tiktok-ads", "amazon-ads", "creative-strategy"],
+      "keywords": ["competitor ads", "ad spy", "competitive intelligence", "ad strategy", "winning hooks"]
+    },
+    {
+      "name": "inventory-forecaster",
+      "source": "./plugins/inventory-forecaster",
+      "description": "Forecast inventory demand based on sales data, seasonality, and market trends. Generates reorder points, safety stock calculations, and purchase order recommendations.",
+      "version": "1.0.0",
+      "author": { "name": "Leveragents" },
+      "homepage": "https://leveragents.com/skills/inventory-forecaster",
+      "category": "ecommerce",
+      "tags": ["inventory", "demand-forecasting", "supply-chain", "reorder", "seasonality", "amazon-fba"],
+      "keywords": ["inventory forecast", "demand planning", "reorder point", "safety stock", "supply chain"]
     }
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "name": "competitor-ad-spy",
+  "version": "1.0.0",
+  "description": "Analyze competitor advertising strategies across Meta, TikTok, and Amazon",
+  "author": {
+    "name": "Leveragents",
+    "email": "hello@leveragents.com",
+    "url": "https://leveragents.com"
+  },
+  "homepage": "https://leveragents.com/skills/competitor-ad-spy",
+  "repository": "https://github.com/benjraju/leveragents-skills",
+  "license": "MIT",
+  "keywords": ["competitor analysis", "ad spy", "advertising", "meta ads", "tiktok ads"],
+  "skills": "./skills/"
+}
